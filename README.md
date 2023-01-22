@@ -37,5 +37,5 @@ It performed better than before but was still bad (even after trying Jaccard, Co
 
 
 
-### [DISCLAIMER]: This project was part of a university course, please advice your instructor before using it. 
+### [DISCLAIMER]: This project was part of a university course, please advise your instructor before using it or check your school's academic integrity policy.  
 
